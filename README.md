@@ -10,6 +10,7 @@ I am a second-year computer science student at Cal Poly Pomona, passionate about
 
 ## 🎓 About Me
 
+- I am the current President of the Software Engineering Association at Cal Poly Pomona.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-estrada22)
