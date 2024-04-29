@@ -5,8 +5,8 @@ I am a second-year computer science student at Cal Poly Pomona, passionate about
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [PyTorch](https://pytorch.org/tutorials/)
-- 💻 Building UAV/UGV applications with ROS
+- 🤖 Exploring Machine Learning with [PyTorch](https://pytorch.org/tutorials/) and [Tensorflow](https://www.tensorflow.org/tutorials)
+- 💻 Building both Aerial and Ground Autonomous Vehicle applications with ROS
 
 ## 🎓 About Me
 
@@ -36,6 +36,7 @@ Developer Tools:
 Frameworks/Libraries:
  ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  ![Pillow](https://img.shields.io/badge/Pillow-%23000000.svg?style=for-the-badge&logo=Pillow&logoColor=white)
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
