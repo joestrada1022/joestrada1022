@@ -5,7 +5,7 @@ I am a second-year computer science student at Cal Poly Pomona, passionate about
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [PyTorch](https://pytorch.org/tutorials/) and [Tensorflow](https://www.tensorflow.org/tutorials)
+- 🤖 Exploring Computer Vision applications with Machine Learning using [PyTorch](https://pytorch.org/tutorials/) and [Tensorflow](https://www.tensorflow.org/tutorials)
 - 💻 Building both Aerial and Ground Autonomous Vehicle applications with ROS
 
 ## 🎓 About Me
