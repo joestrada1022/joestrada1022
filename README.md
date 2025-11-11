@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Joshua Estrada</h1>
 
 # 💫 About Me:
-I am a second-year computer science student at Cal Poly Pomona, passionate about exploring the realms of coding, machine learning, robotics, and building robust applications.
+I am a fourth-year computer science student at Cal Poly Pomona, passionate about exploring the realms of coding, machine learning, robotics, and building robust applications.
 
 ## 🚀 What I'm Up To
 
